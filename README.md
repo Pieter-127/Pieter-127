@@ -12,7 +12,7 @@ My name is Pieter and I'm an android dev, trying to learn as much as possible.
 
 To G K K, you will always be my champion and my best friend. Thank you for getting me to where I am today and enabling me to go even further.
 
-Here are some images from apps I've either worked on or which are available on my github
+Here are some images from apps I've either worked on or which are available on my github (only side projects, nothing work related)
 
 <img src="https://github.com/Pieter-127/MoveMe/blob/master/app/art/example.gif" width="20%" />
 
