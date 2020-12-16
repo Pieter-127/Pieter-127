@@ -3,7 +3,7 @@
 My name is Pieter and I'm an android dev, trying to learn as much as possible.
 
 - 🔭 I’m currently working on learning as much of android as possible, I have a full-time job and do side projects when I find time.
-- 🌱 I’m currently learning (whenever I have time, which isn't very often) flutter, although this is going very slowly
+- 🌱 I’m currently learning flutter - this is going pretty well ! really having a lot of fun so far.
 - 👯 I’m looking to collaborate on anything making use of kotlin and material design
 - 🤔 I’m looking for help with being smuggled into Canada :D  
 - 💬 Ask me about my profile picture (you'll get a random reply because I don't really know where it's from, it's followed me for years)
