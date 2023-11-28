@@ -1,6 +1,6 @@
 ### Hello 
 
-My name is Pieter and I'm an android dev, trying to learn as much as possible.
+My name is Pieter (pronounced the same as Peter) and I'm an android dev, trying to learn as much as possible.
 
 - 🔭 I’m currently working on compose and whatever comes from doing that.
 - 🌱 I’m currently learning flutter and trying to learn some backend development as well, although finding time for everything is always a challenge.
