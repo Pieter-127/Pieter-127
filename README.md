@@ -10,27 +10,36 @@ My name is Pieter (pronounced the same as Peter) and I'm an android dev, trying 
 - 😄 Pronouns: He/Him
 - One of my favourite quotes : "There is no great genius without some touch of madness."
 
-Here are some of the apps available on my github - it's a work in progress. If I ever find something with a cool design I'll try to recreate it, even without functionality.
+Here are some of the apps available on my github - it's a work in progress.
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/Pieter-127/WeatherAgain/blob/main/app/preview.png" width="320"  />
+       WeatherAgain<br>
+      <img src="https://github.com/Pieter-127/WeatherAgain/blob/main/app/preview.png" height="600"  />
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/Pieter-127/At_a_Glance/blob/main/app/preview.png" width="320" />
+       At a Glance<br>
+      <img src="https://github.com/Pieter-127/At_a_Glance/blob/main/app/preview.png" height="600" />
+    </td>
+      <td style="text-align: center;">
+       Uncaught<br>
+      <img src="https://github.com/Pieter-127/Uncaught/blob/main/app/preview.png" height="600" />
     </td>
   </tr>
- <tr>
+</table>
+<table>
+  <tr>
     <td style="text-align: center;">
-      <video src="https://github.com/Pieter-127/Forming/assets/26046935/713eb7fa-69aa-4a9f-8b54-c4531cb10eb2" type="video/mp4" width="320" controls>
+       Forming<br>
+      <video src="https://github.com/Pieter-127/Forming/assets/26046935/713eb7fa-69aa-4a9f-8b54-c4531cb10eb2" type="video/mp4" controls>
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="text-align: center;">
-      <video src="https://github.com/Pieter-127/Senses/assets/26046935/75eb8191-f716-4d20-80f5-a5f3b8c8202f" type="video/mp4" width="320" height="250" controls>
+       Senses<br>
+      <video src="https://github.com/Pieter-127/Pieter-127/assets/26046935/a486be85-04ea-40d0-953a-5b52ce24f850" type="video/mp4" controls>
         Your browser does not support the video tag.
       </video>
     </td>
   </tr>
 </table>
-
