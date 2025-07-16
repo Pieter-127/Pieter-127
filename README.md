@@ -3,7 +3,7 @@
 My name is Pieter (pronounced the same as Peter) and I'm an android dev, trying to learn as much as possible.
 
 - 🔭 I’m currently working on Flutter and Compose and whatever comes from doing that.
-- 🌱 I’m currently learning NodeJS, although finding time for everything is always a challenge.
+- 🌱 I’m currently learning Springboot, although finding time for everything is always a challenge.
 - 👯 I’m looking to collaborate on anything making use of kotlin or flutter, compose and material design.
 - 💬 Ask me about my profile picture (you'll get a random reply because I don't really know where it's from, it's followed me for years)
 - 📫 How to reach me: I'm a ghost in the system, if you can reach me, that's an achievement :)
